@@ -15,4 +15,10 @@ simple html/css for front-end practice
 📫 how to reach me: benguenounabrahim141@gmail.com
 
 connect with me:
+[
+![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=Instagram&logocolor=white)
+](https://instagram.com/brahim--brb)
+[
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logocolor=white)
+](https://linkedin.com/in/BRAHIM-BENGUENOUNA)
 
