@@ -14,7 +14,7 @@ simple html/css for front-end practice
 
 📫 how to reach me: benguenounabrahim141@gmail.com
 
-connect with me:
+##connect with me:
 [
 ![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=Instagram&logocolor=white)
 ](https://www.instagram.com/brahim__brb?stkn=MWR5YTJjOWR0NWR6eA==)
