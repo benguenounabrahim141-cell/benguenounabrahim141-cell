@@ -20,5 +20,5 @@ connect with me:
 ](https://instagram.com/brahim--brb)
 [
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logocolor=white)
-](https://linkedin.com/in/BRAHIM-BENGUENOUNA)
+](https://www.linkedin.com/in/brahim-benguenouna-b09216433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
