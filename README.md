@@ -1,6 +1,6 @@
  Hi there 👋
  
- <h1 align="center">Hi there 👋, I'm Brahim Benguenouna</h1>
+ <h1 >Hi there 👋, I'm Brahim Benguenouna</h1>
 
 🎓 cs student , currently i'm in my 2nd year
 
