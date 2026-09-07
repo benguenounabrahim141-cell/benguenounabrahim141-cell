@@ -15,10 +15,5 @@ simple html/css for front-end practice
 📫 how to reach me: benguenounabrahim141@gmail.com
 
 <h3 align="left">connect with me</h3>
-[
-![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=Instagram&logocolor=white)
-](https://www.instagram.com/brahim__brb?stkn=MWR5YTJjOWR0NWR6eA==)
-[
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logocolor=white)
-](https://www.linkedin.com/in/brahim-benguenouna-b09216433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
+<p align="left">
+<a href="https://instagram.com/brahim__brb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim__brb" height="30" width="40" /></a>
