@@ -17,7 +17,7 @@ simple html/css for front-end practice
 connect with me:
 [
 ![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=Instagram&logocolor=white)
-](https://instagram.com/brahim--brb)
+](https://www.instagram.com/brahim__brb?stkn=MWR5YTJjOWR0NWR6eA==)
 [
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logocolor=white)
 ](https://www.linkedin.com/in/brahim-benguenouna-b09216433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
