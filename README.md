@@ -17,4 +17,4 @@ simple html/css for front-end practice
 <h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/brahim__brb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim__brb" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Brahim-Benguenouna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Brahim-Benguenouna" target="_blank"><img align="center" src=https://www.linkedin.com/in/brahim-benguenouna-b09216433?utm_source=share_via&utm_content=profile&utm_medium=member_android alt="LinkedIn" height="30" width="40" /></a>
