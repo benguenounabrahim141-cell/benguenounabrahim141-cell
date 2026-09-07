@@ -3,7 +3,9 @@
      Hi there 👋, I'm Brahim Benguenouna
 
 🎓 cs student , currently i'm in my 2nd year
-💻 learning algorithms, data structures, and computer architecture 
+
+💻 learning algorithms, data structures, and computer architecture
+
 🔧 coding in c, currently building my skills in front-end development with html and css
 
 📌 currently working on:
