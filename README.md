@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hi there 👋
+     Hi there 👋, I'm Brahim Benguenouna
 
-<!--
-**benguenounabrahim141-cell/benguenounabrahim141-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 cs student , currently i'm in my 2nd year
+💻 learning algorithms, data structures, and computer architecture 
+🔧 coding in c, currently building my skills in frontend development with html and css
 
-Here are some ideas to get you started:
+📌 currently working on:
+c programs (algorithm , data structures practice ) 
+simple html/css for frontend practice 
+📫 how to reach me: benguenounabrahim141@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+connect with me:
+
