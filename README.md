@@ -2,6 +2,8 @@
  
  <h1 align="center" >Hi there 👋, I'm Brahim Benguenouna</h1>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrahimBenguenouna&label=Profile%20views&color=0e75b6&style=flat" alt="BrahimBenguenouna" /> </p>
+
 🎓 cs student , currently i'm in my 2nd year
 
 💻 learning algorithms, data structures, and computer architecture
