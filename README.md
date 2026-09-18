@@ -1,6 +1,8 @@
 ### Hi there 👋
  
  <h1 align="center" >Hi there 👋, I'm Brahim Benguenouna</h1>
+ <a href="https://github.com/benguenounabrahim141-cell">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=brahim+-+softwaredevelopement+%26+Tech+Lead/+c+/+html/+css;Building+here+since+Forever" alt="typing banner">
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrahimBenguenouna&label=Profile%20views&color=0e75b6&style=flat" alt="BrahimBenguenouna" /> </p>
 
